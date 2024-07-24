@@ -4,70 +4,69 @@
 
 ---
 
-<h2 style="font-family: 'Courier New', monospace; color: #00FFFF;">🔍 Cybersecurity Projects</h2>
+### Welcome
 
-<b style="font-family: 'Courier New', monospace; color: #FFFFFF;">Vulnerability Assessment</b>
-- <a href="https://github.com/your-github-username/vulnerability-assessment" style="font-family: 'Courier New', monospace; color: #FF00FF;">Network Vulnerability Assessment using Nessus</a>
-  - Comprehensive network scan and vulnerability assessment using Nessus. The project includes identifying, categorizing, and providing remediation steps for vulnerabilities.
-
-<b style="font-family: 'Courier New', monospace; color: #FFFFFF;">Incident Response</b>
-- <a href="https://github.com/your-github-username/incident-response" style="font-family: 'Courier New', monospace; color: #FF00FF;">Incident Response Simulation</a>
-  - A simulation of a cybersecurity incident response plan, demonstrating detection, analysis, containment, eradication, and recovery procedures.
-
-<b style="font-family: 'Courier New', monospace; color: #FFFFFF;">PowerShell Scripts</b>
-- <a href="https://github.com/your-github-username/AD_Bulk_User_Creation" style="font-family: 'Courier New', monospace; color: #FF00FF;">Active Directory Bulk User Creation</a>
-  - Script for creating multiple users in Active Directory, saving time and ensuring consistency in user account creation.
-- <a href="https://github.com/your-github-username/PowerShell-Integrity-FIM" style="font-family: 'Courier New', monospace; color: #FF00FF;">File Integrity Monitor (FIM)</a>
-  - PowerShell script to monitor and ensure the integrity of files, alerting upon unauthorized changes.
+Welcome to my cybersecurity portfolio. Here, you can explore a selection of projects, papers, and certifications that showcase my skills and achievements in the field of cybersecurity. Each section provides details about the work I've done and the knowledge I've gained.
 
 ---
 
-<h2 style="font-family: 'Courier New', monospace; color: #00FFFF;">📺 Popular YouTube Videos</h2>
+### Projects
 
-- <a href="https://www.youtube.com/watch?v=example-video-link" style="font-family: 'Courier New', monospace; color: #FFFF00;">Introduction to Cybersecurity</a>
-  - A beginner-friendly introduction to the field of cybersecurity, covering the basics and essential concepts.
-- <a href="https://www.youtube.com/watch?v=example-video-link" style="font-family: 'Courier New', monospace; color: #FFFF00;">Network Vulnerability Assessment Tutorial</a>
-  - A step-by-step guide on conducting a network vulnerability assessment using Nessus.
-- <a href="https://www.youtube.com/watch?v=example-video-link" style="font-family: 'Courier New', monospace; color: #FFFF00;">Incident Response Plan Explanation</a>
-  - Detailed explanation of creating and implementing an effective incident response plan.
+1. **Personal Penetration Testing Lab**
+   - **Overview:** This project involved setting up a personal penetration testing lab to practice and hone my skills in ethical hacking and cybersecurity. 
+   - **Details:** Includes network configuration, vulnerability assessments, and exploitation techniques. [View Project Documentation](#)
 
----
+2. **IAM Job Simulation with Tata Consultancy Services**
+   - **Overview:** Participated in an Identity and Access Management (IAM) job simulation to understand real-world applications and challenges in IAM.
+   - **Details:** Includes scenario-based tasks, solutions, and reflections on the experience. [View Project Documentation](#)
 
-<h2 style="font-family: 'Courier New', monospace; color: #00FFFF;">🤳 Connect with me</h2>
-
-<p>
-<a href="https://www.youtube.com/c/your-youtube-channel" target="_blank">
-  <img align="left" alt="Branavasri | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color: white;" />
-</a>
-<a href="https://twitter.com/your-twitter-handle" target="_blank">
-  <img align="left" alt="Branavasri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: white;" />
-</a>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-  <img align="left" alt="Branavasri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: white;" />
-</a>
-<a href="https://www.instagram.com/your-instagram-handle/" target="_blank">
-  <img align="left" alt="Branavasri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;" />
-</a>
-</p>
-
-[twitter]: https://twitter.com/your-twitter-handle
-[youtube]: https://www.youtube.com/c/your-youtube-channel
-[instagram]: https://www.instagram.com/your-instagram-handle/
-[linkedin]: https://linkedin.com/in/your-linkedin-profile
+3. **Ethical Hacking Training Project**
+   - **Overview:** Completed a comprehensive training project in ethical hacking, focusing on penetration testing and vulnerability assessment.
+   - **Details:** Covers techniques used, tools applied (such as Burp Suite), and findings. [View Project Documentation](#)
 
 ---
 
-<!--
-**your-github-username/your-github-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Papers
 
-Here are some ideas to get you started:
+1. **Research Paper on [Topic]**
+   - **Overview:** A detailed research paper on a current topic in cybersecurity.
+   - **Details:** Includes methodologies, findings, and implications. [View Paper](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **Analysis of [Cybersecurity Incident]**
+   - **Overview:** An in-depth analysis of a significant cybersecurity incident.
+   - **Details:** Provides a breakdown of the incident, response strategies, and lessons learned. [View Paper](#)
+
+---
+
+### Certifications
+
+- **CompTIA Security+**
+  - **Details:** Certification demonstrating foundational knowledge in cybersecurity. [View Certification](#)
+
+- **Google Cybersecurity Professional Certification**
+  - **Details:** Advanced certification showcasing expertise in various cybersecurity domains. [View Certification](#)
+
+- **Advanced Cyber - TryHackMe**
+  - **Details:** Certification focusing on advanced cybersecurity skills and techniques. [View Certification](#)
+
+- **Kali Linux Mastering for Ethical Hackers**
+  - **Details:** Training in Kali Linux tools and techniques for ethical hacking. [View Certification](#)
+
+---
+
+### Skills
+
+- **Technical Skills:** Incident Response, Security Controls and Frameworks, Network Security, SIEM, Log Analysis, IAM, Burp Suite, Python, Linux, SQL, Ethical Hacking (Kali Linux, Penetration Testing)
+- **Soft Skills:** Problem-Solving, Critical Thinking, Communication, Team Collaboration
+
+---
+
+### Contact Information
+
+- **Email:** branavasri@gmail.com
+- **LinkedIn:** [linkedin.com/in/branavasri](https://linkedin.com/in/branavasri)
+- **GitHub:** [github.com/sudo-branav](https://github.com/sudo-branav)
+
+---
+
+Feel free to customize and add more details or sections as needed. Once you have the content ready, we can work on formatting and presenting it in an engaging and professional manner!
