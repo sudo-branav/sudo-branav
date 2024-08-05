@@ -6,7 +6,8 @@ Welcome to my GitHub portfolio! I specialize in cybersecurity, focusing on ethic
 
 ## 🧑‍💻 About Me
 I am a passionate cybersecurity professional with a strong foundation in threat detection, risk assessment, and incident response. My goal is to continuously learn and apply the latest security techniques to protect digital assets.
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="branav-k-522764319" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/branav-k-522764319?trk=profile-badge">Branav K</a></div>
+              
 - 🌐 [LinkedIn](https://www.linkedin.com/in/branavasri)
 - 🏠 [Personal Website](https://branav.com)
 - 📧 [Email](mailto:branavasri@gmail.com)
