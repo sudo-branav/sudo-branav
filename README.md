@@ -14,6 +14,47 @@ I am a passionate cybersecurity professional with a strong foundation in threat 
 
 ## 🚀 Featured Projects
 
+### [Incident Response Simulation](https://github.com/sudo-branav/incident-response-simulation)
+![Project Image](https://your-website.com/incident-response-simulation.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: ELK Stack, Splunk, Network Traffic Analysis
+- **Overview**: Led a simulated incident response, analyzing logs and network traffic to trace and remediate security breaches. Developed comprehensive incident reports and improved response strategies.
+
+### [Network Security Assessment](https://github.com/sudo-branav/network-security-assessment)
+![Project Image](https://your-website.com/network-security-assessment.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: Nmap, Nessus, Vulnerability Management
+- **Overview**: Conducted an in-depth security assessment of a simulated corporate network. Identified vulnerabilities, documented findings, and provided actionable recommendations for mitigation.
+
+### [Vulnerability Scanning Toolkit](https://github.com/sudo-branav/vulnerability-scanning-toolkit)
+![Project Image](https://your-website.com/vulnerability-scanning-toolkit.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: OpenVAS, Qualys, Custom Scripts
+- **Overview**: Developed a toolkit for automated vulnerability scanning and analysis. Enhanced system security by identifying and addressing critical vulnerabilities.
+
+### [Firewall Configuration and Management](https://github.com/sudo-branav/firewall-configuration)
+![Project Image](https://your-website.com/firewall-configuration.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: iptables, pfSense, Firewall Management
+- **Overview**: Configured and managed firewall settings to secure network environments. Conducted regular reviews to ensure compliance with security policies and effectively blocked unauthorized access.
+
+### [Security Policy Development](https://github.com/sudo-branav/security-policy-development)
+![Project Image](https://your-website.com/security-policy-development.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: Policy Documentation, Risk Assessment
+- **Overview**: Created and documented security policies for access control, data protection, and incident response. Facilitated policy adoption and improved organizational security posture.
+
+### [Password Management System](https://github.com/sudo-branav/password-management)
+![Project Image](https://your-website.com/password-management.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: LastPass, Bitwarden, Security Policies
+- **Overview**: Implemented a secure password management system, establishing robust policies for password complexity and expiration. Enhanced overall security through effective password management.
+
+### [Access Control System Design](https://github.com/sudo-branav/access-control-system)
+![Project Image](https://your-website.com/access-control-system.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: Access Control Tools, Policy Implementation
+- **Overview**: Designed and implemented access control measures to manage user permissions and access levels. Ensured security and compliance through regular reviews and adjustments.
+
+### [Security Awareness Training Program](https://github.com/sudo-branav/security-awareness-training)
+![Project Image](https://your-website.com/security-awareness-training.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used**: Training Materials, Educational Platforms
+- **Overview**: Developed and conducted training programs on security best practices and threat awareness. Improved organizational security awareness and compliance through interactive sessions.
+
+
 ### [Personal Penetration Testing Lab](https://github.com/sudo-branav/pentest-lab)
 ![Project Image](https://your-website.com/pentest-lab.jpg)  <!-- Replace this URL with the link to your image -->
 - **Tools Used**: Kali Linux, Metasploit, Wireshark, Nmap
