@@ -6,100 +6,93 @@ Welcome to my GitHub portfolio! I specialize in cybersecurity, focusing on ethic
 
 ## 🧑‍💻 About Me
 I am a passionate cybersecurity professional with a strong foundation in threat detection, risk assessment, and incident response. My goal is to continuously learn and apply the latest security techniques to protect digital assets.
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="branav-k-522764319" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/branav-k-522764319?trk=profile-badge">Branav K</a></div>
-              
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/branavasri)
-- 🏠 [Personal Website](https://branav.com)
+- 🏠 [Personal Website](https://branav.com)  <!-- Replace with your actual website -->
 - 📧 [Email](mailto:branavasri@gmail.com)
 
 ## 🚀 Featured Projects
 
+### [Penetration Testing with Metasploitable](https://github.com/sudo-branav/penetration-testing-metasploitable)
+![Project Image](https://your-website.com/penetration-testing-metasploitable.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** Metasploit, Nmap
+- **Overview:** Conducted simulated attacks on the Metasploitable VM to identify and exploit system vulnerabilities using Metasploit and Nmap. Enhanced threat detection techniques by documenting findings and recommending security improvements.
+
+### [Tata Cybersecurity Analyst Job Simulation (Forage)](https://github.com/sudo-branav/tata-cybersecurity-simulation)
+![Project Image](https://your-website.com/tata-cybersecurity-simulation.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** IAM Tools, Role-Based Access Control
+- **Overview:** Collaborated on Identity and Access Management (IAM) projects, focusing on user access controls and policy documentation. Implemented role-based access controls (RBAC) to ensure appropriate user permissions and reduce security risks.
+
+### [Secure Authentication System](https://github.com/sudo-branav/secure-authentication-system)
+![Project Image](https://your-website.com/secure-authentication-system.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** Python, Django, HTML, MFA
+- **Overview:** Developed a secure authentication system using Python, Django, and HTML, incorporating multi-factor authentication (MFA). Implemented encryption techniques to protect user credentials and ensure data integrity.
+
 ### [Incident Response Simulation](https://github.com/sudo-branav/incident-response-simulation)
 ![Project Image](https://your-website.com/incident-response-simulation.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: ELK Stack, Splunk, Network Traffic Analysis
-- **Overview**: Led a simulated incident response, analyzing logs and network traffic to trace and remediate security breaches. Developed comprehensive incident reports and improved response strategies.
+- **Tools Used:** Splunk, ELK Stack, Network Traffic Analysis
+- **Overview:** Simulated incident response scenarios using Splunk and ELK Stack to practice detection, analysis, and mitigation of security incidents. Improved response time and effectiveness by developing and refining incident response playbooks.
+
+### [Web Application Security Testing](https://github.com/sudo-branav/web-app-security-testing)
+![Project Image](https://your-website.com/web-app-security-testing.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** Burp Suite, OWASP ZAP
+- **Overview:** Performed security assessments on web applications using Burp Suite and OWASP ZAP, identifying vulnerabilities such as SQL injection and XSS. Mitigated identified vulnerabilities by implementing secure coding practices and applying necessary patches.
+
+### [Password Cracking and Security Hardening](https://github.com/sudo-branav/password-cracking-hardening)
+![Project Image](https://your-website.com/password-cracking-hardening.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** John the Ripper, Hashcat
+- **Overview:** Utilized John the Ripper and Hashcat to identify weak passwords and assess password strength within the system. Implemented comprehensive password policies, including complexity requirements and regular updates, to strengthen system security.
+
+### [Network Traffic Monitoring and Analysis](https://github.com/sudo-branav/network-traffic-monitoring)
+![Project Image](https://your-website.com/network-traffic-monitoring.jpg)  <!-- Replace this URL with the link to your image -->
+- **Tools Used:** Wireshark, tcpdump
+- **Overview:** Monitored and analyzed local network traffic with Wireshark and tcpdump to detect suspicious activities. Identified potential threats and data leaks by capturing and examining various types of network traffic (e.g., HTTP, FTP).
 
 ### [Network Security Assessment](https://github.com/sudo-branav/network-security-assessment)
 ![Project Image](https://your-website.com/network-security-assessment.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Nmap, Nessus, Vulnerability Management
-- **Overview**: Conducted an in-depth security assessment of a simulated corporate network. Identified vulnerabilities, documented findings, and provided actionable recommendations for mitigation.
+- **Tools Used:** Nmap, Nessus
+- **Overview:** Conducted an in-depth security assessment of a simulated corporate network using Nmap and Nessus. Identified vulnerabilities, documented findings, and provided actionable recommendations for mitigation.
 
 ### [Vulnerability Scanning Toolkit](https://github.com/sudo-branav/vulnerability-scanning-toolkit)
 ![Project Image](https://your-website.com/vulnerability-scanning-toolkit.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: OpenVAS, Qualys, Custom Scripts
-- **Overview**: Developed a toolkit for automated vulnerability scanning and analysis. Enhanced system security by identifying and addressing critical vulnerabilities.
-
-### [Firewall Configuration and Management](https://github.com/sudo-branav/firewall-configuration)
-![Project Image](https://your-website.com/firewall-configuration.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: iptables, pfSense, Firewall Management
-- **Overview**: Configured and managed firewall settings to secure network environments. Conducted regular reviews to ensure compliance with security policies and effectively blocked unauthorized access.
-
-### [Security Policy Development](https://github.com/sudo-branav/security-policy-development)
-![Project Image](https://your-website.com/security-policy-development.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Policy Documentation, Risk Assessment
-- **Overview**: Created and documented security policies for access control, data protection, and incident response. Facilitated policy adoption and improved organizational security posture.
-
-### [Password Management System](https://github.com/sudo-branav/password-management)
-![Project Image](https://your-website.com/password-management.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: LastPass, Bitwarden, Security Policies
-- **Overview**: Implemented a secure password management system, establishing robust policies for password complexity and expiration. Enhanced overall security through effective password management.
-
-### [Access Control System Design](https://github.com/sudo-branav/access-control-system)
-![Project Image](https://your-website.com/access-control-system.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Access Control Tools, Policy Implementation
-- **Overview**: Designed and implemented access control measures to manage user permissions and access levels. Ensured security and compliance through regular reviews and adjustments.
-
-### [Security Awareness Training Program](https://github.com/sudo-branav/security-awareness-training)
-![Project Image](https://your-website.com/security-awareness-training.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Training Materials, Educational Platforms
-- **Overview**: Developed and conducted training programs on security best practices and threat awareness. Improved organizational security awareness and compliance through interactive sessions.
-
-
-### [Personal Penetration Testing Lab](https://github.com/sudo-branav/pentest-lab)
-![Project Image](https://your-website.com/pentest-lab.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Kali Linux, Metasploit, Wireshark, Nmap
-- **Overview**: Developed a comprehensive lab environment for penetration testing, conducted vulnerability assessments, and mitigated over 50 security weaknesses.
-
-### [Security Hardening on Linux Systems](https://github.com/sudo-branav/security-hardening)
-![Project Image](https://your-website.com/security-hardening.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Linux, Bash Scripting, System Configuration
-- **Overview**: Implemented security best practices, automated system audits, and significantly improved system security posture.
-
-### [Network Traffic Analysis with Wireshark](https://github.com/sudo-branav/wireshark-analysis)
-![Project Image](https://your-website.com/wireshark-analysis.jpg)  <!-- Replace this URL with the link to your image -->
-- **Tools Used**: Wireshark, Network Protocols, Packet Analysis
-- **Overview**: Analyzed network traffic, detected potential security threats, and improved threat detection efficiency by 25%.
+- **Tools Used:** OpenVAS, Qualys, Custom Scripts
+- **Overview:** Developed an automated vulnerability scanning toolkit using OpenVAS, Qualys, and custom scripts. Enhanced system security by identifying and addressing critical vulnerabilities efficiently.
 
 ### [Capture The Flag (CTF) Challenges](https://github.com/sudo-branav/ctf-challenges)
 ![Project Image](https://your-website.com/ctf-challenges.jpg)  <!-- Replace this URL with the link to your image -->
-- **Platforms**: TryHackMe, Hack The Box
-- **Overview**: Engaged in various CTF competitions, enhancing practical skills in ethical hacking, cryptography, and network security.
+- **Platforms:** TryHackMe, Hack The Box
+- **Overview:** Engaged in various CTF competitions on TryHackMe and Hack The Box, completing 50+ challenges. Enhanced practical skills in ethical hacking, cryptography, and network security, ranking in the top 10% of participants.
 
 ## 🛠️ Skills
 
 ### Technical Skills
-- **Security**: Threat Detection, Risk Assessment, Incident Response
-- **Tools & Technologies**:
+- **Security:** Threat Detection, Risk Assessment, Incident Response
+- **Tools & Technologies:**
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Splunk](https://img.shields.io/badge/Splunk-5A29E4?style=for-the-badge&logo=splunk&logoColor=white)
-  ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+  ![Suricata](https://img.shields.io/badge/Suricata-FFD700?style=for-the-badge&logo=suricata&logoColor=black)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white)
+  ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-94B447?style=for-the-badge&logo=owasp-zap&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-0E5396?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=for-the-badge&logo=tcpdump&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-7F52FF?style=for-the-badge&logo=nmap&logoColor=white)
+  ![Nessus](https://img.shields.io/badge/Nessus-008080?style=for-the-badge&logo=nessus&logoColor=white)
+  ![OpenVAS](https://img.shields.io/badge/OpenVAS-0D47A1?style=for-the-badge&logo=openvas&logoColor=white)
+  ![Qualys](https://img.shields.io/badge/Qualys-FF5722?style=for-the-badge&logo=qualys&logoColor=white)
+  ![pfSense](https://img.shields.io/badge/pfSense-0A1F44?style=for-the-badge&logo=pfsense&logoColor=white)
+  ![iptables](https://img.shields.io/badge/iptables-4CBB17?style=for-the-badge&logo=iptables&logoColor=white)
 
 ### Soft Skills
 - Analytical Thinking
-- Problem-Solving
+- Problem Solving
 - Attention to Detail
+- Effective Communication
+- Quick Learner
 
 ## 📫 Contact
 I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out!
