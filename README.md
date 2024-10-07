@@ -9,8 +9,8 @@ I am a passionate cybersecurity professional with a strong foundation in threat 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="branav-k-522764319" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/branav-k-522764319?trk=profile-badge">Branav K</a></div>
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/branavasri)
-- 🏠 [Personal Website](https://branav.com)  <!-- Replace with your actual website -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/branavasrik)
+- 🏠 [Personal Website](https://branav.net)  <!-- Replace with your actual website -->
 - 📧 [Email](mailto:branavasri@gmail.com)
 
 ## 🚀 Featured Projects
@@ -97,7 +97,7 @@ I am a passionate cybersecurity professional with a strong foundation in threat 
 ## 📫 Contact
 I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/branavasri)
+- [LinkedIn](https://www.linkedin.com/in/branavasrik)
 - [Email](mailto:branavasri@gmail.com)
 
 ## 📄 License
